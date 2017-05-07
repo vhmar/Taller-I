@@ -1,2 +1,2 @@
 # Taller-I
-Taller UMDI-Junino 2017, Julia y Jupyter
+Taller UMDI-Junio 2017, Julia y Jupyter
