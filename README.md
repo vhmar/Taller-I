@@ -6,3 +6,5 @@ Taller de Julia y Jupyter Junio-2017
 Joel participa 
 
 La idea es trabajar con VM
+
+Estamos haciendo pruebas con el Verano.
